@@ -16,6 +16,7 @@
 [<img align="left" alt="Célian | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Célian | discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 [<img align="left" alt="Célian | mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
+[<img align="left" alt="Célian | mail" width="22px" src="https://img.icons8.com/ios-filled/50/000000/apple-phone.svg" />][phone]
 
 <br />
 
@@ -44,3 +45,4 @@
 [instagram]: https://instagram.com/celian._._
 [linkedin]: https://linkedin.com/in/célian-hamon
 [mail]: mailto://hamoncelian@gmail.com
+[phone]: tel://+33782538162
