@@ -3,9 +3,8 @@
 [![Website](https://img.shields.io/badge/looking%20for%20work-YES-brightgreen?style=flat-square&logo=linkedin)][linkedin]
 
 - 👀 I’m interested in back and front end
-- 🌱 I’m currently learning node js
-- 🥅 2021 Goals find an "alternance" contract in france
-
+- 🌱 I’m currently learning node js and java
+- 🐛 Will soon work for Engie IT
 
 
 ### 📫 How to reach me : 
