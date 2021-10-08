@@ -1,6 +1,6 @@
 ### Hi there, I'm Célian Hamon 👋
 
-[![Website](https://img.shields.io/badge/looking%20for%20work-YES-brightgreen?style=flat-square&logo=linkedin)][linkedin]
+[![Website](https://img.shields.io/badge/looking%20for%20work-No-red?style=flat-square&logo=linkedin)][linkedin]
 
 - 👀 I’m interested in back and front end
 - 🌱 I’m currently learning node js and java
