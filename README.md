@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in back and front end
 - 🌱 I’m currently learning node js and java
-- 🐛 Will soon work for Engie IT
+- 🚸 Working for for Engie IT
 
 
 ### 📫 How to reach me : 
