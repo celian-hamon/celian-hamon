@@ -8,7 +8,7 @@
 
 <br />
 
-![](https://komarev.com/ghpvc/?username=celian-hamon)
+![](https://komarev.com/ghpvc/?username=celian-hamon&color=brightgreen)
 
 ### 📫 How to reach me : 
 
