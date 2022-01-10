@@ -38,7 +38,7 @@ or +33782538162
 
 
 [![Les Stats GitHub de celian](https://github-readme-stats.vercel.app/api?username=celian-hamon&count_private=true&theme=radical&show_icons=true)](https://github.com/skelletondude/)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celian-hamon&layout=compact)](https://github.com/celian-hamon)
 
 
 [github]: https://github.com/skelletondude
