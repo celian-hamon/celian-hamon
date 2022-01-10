@@ -6,6 +6,9 @@
 - 🌱 I’m currently learning node js and java
 - 🚸 Working for for Engie IT
 
+<br />
+
+![](https://komarev.com/ghpvc/?username=celian-hamon)
 
 ### 📫 How to reach me : 
 
@@ -13,7 +16,6 @@
 
 [<img align="left" alt="Célian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Célian | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Célian | discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 [<img align="left" alt="Célian | mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
 or +33782538162
 
