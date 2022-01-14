@@ -3,7 +3,7 @@
 [//]: <> ()
 
 - 👀 I’m interested in back and front end
-- 🌱 I’m currently learning node js and java
+- 🌱 I’m actively learning golang and java
 - 🚸 Working for for Engie IT
 
 <br />
