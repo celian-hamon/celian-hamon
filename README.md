@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in back and front end
 - 🌱 I’m actively learning golang and java
-- 🚸 Working for for Engie IT
+- 🚸 Working on backend for Engie IT 
 
 <br />
 
