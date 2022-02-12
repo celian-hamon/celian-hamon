@@ -9,7 +9,6 @@
 <br />
 
 [<img src="https://img.icons8.com/nolan/50/linkedin.png"/>][linkedin]
-[<img src="https://img.icons8.com/nolan/50/instagram-new.png"/>][instagram]
 [<img src="https://img.icons8.com/nolan/50/new-post.png"/>][mail]
 <br/>
 <img src="https://img.icons8.com/nolan/32/phonelink-ring.png"/> : +33782538162
@@ -41,7 +40,6 @@ func main(){
 
 [github]: https://github.com/skelletondude
 [discord]: https://discord.gg/EbFVbBFc
-[instagram]: https://instagram.com/celian._._
 [linkedin]: https://linkedin.com/in/célian-hamon
 [mail]: mailto://hamoncelian@gmail.com
 [phone]: tel:+33782538162
