@@ -37,9 +37,7 @@ func main(){
 ```
 
 
-[![Les Stats GitHub de celian](https://github-readme-stats.vercel.app/api?username=celian-hamon&count_private=true&theme=radical&show_icons=true&include_all_commits=true)](https://github.com/celian-hamon)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celian-hamon&layout=compact&theme=radical&card_heigth=500)](https://github.com/celian-hamon)
-
+<img align="center" width="400px" height="150px" src="https://github-readme-stats.vercel.app/api?username=celian-hamon&count_private=true&theme=radical&show_icons=true&include_all_commits=true)"/><img align="center" width="300px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celian-hamon&layout=compact&theme=radical&card_heigth=500"/>
 
 [github]: https://github.com/skelletondude
 [discord]: https://discord.gg/EbFVbBFc
