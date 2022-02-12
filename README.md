@@ -1,44 +1,44 @@
-### Hi there, I'm Célian Hamon 👋
+<h2><img src="https://media.giphy.com/media/3tLfHNBLVmerqGEwHm/giphy.gif"  height="50px"/> Hi there, I'm Célian </h2>
 
-[//]: <> ()
+![](https://komarev.com/ghpvc/?username=celian-hamon&color=ff69b4)
+<img align="right" src="https://media.giphy.com/media/SbIzfdJa9YAxxnHqTe/giphy.gif">
+<h4><em>im a Backend Developer at <a href="https://www.engie.com/">Engie it</a></em></h4>
 
-- 👀 I’m interested in back and front end
-- 🌱 I’m actively learning golang and java
-- 🚸 Working on backend for Engie IT 
-
-<br />
-
-![](https://komarev.com/ghpvc/?username=celian-hamon&color=brightgreen)
-
-### 📫 How to reach me : 
+<h3 align="left"><img src="https://media.giphy.com/media/3ohs4l3Tlr1rzSNm80/giphy.gif" width="40px" />  How to reach me : </h3>
 
 <br />
 
-[<img align="left" alt="Célian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Célian | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Célian | mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
-or +33782538162 or discord : celian.msi#6775
-
-<br />
-
-### I use :
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][github]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][github]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][github]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][github]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][github]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][github]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][github]
-[<img align="left" alt="linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][github]
+[<img src="https://img.icons8.com/nolan/64/linkedin.png"/>][linkedin]
+[<img src="https://img.icons8.com/nolan/64/instagram-new.png"/>][instagram]
+[<img src="https://img.icons8.com/nolan/64/new-post.png"/>][mail]
+<br/>
+<img src="https://img.icons8.com/nolan/32/phonelink-ring.png"/> : +33782538162
+<br/>
+<img src="https://img.icons8.com/nolan/32/discord-new-logo.png"/> : cece.msi#6775
 
 
-<br />
+### <img src="https://media.giphy.com/media/5xaOcLSTZxK69HMrMGc/giphy.gif" width="40px"> More about me :
+
+```golang
+package me
+
+import "fmt"
+
+func main(){
+  Celian = map[string]interface{}{
+    "code"              : [Golang,Python,HTML,CSS,Javascript,SQL],
+    "tools"             : [Node,Mysql],
+    "currentlyLearning" : "Backend Dev at CESI Rouen"
+    "WorkingFor"        : "Engie IT"
+  }
+}
 
 
-[![Les Stats GitHub de celian](https://github-readme-stats.vercel.app/api?username=celian-hamon&count_private=true&theme=radical&show_icons=true)](https://github.com/skelletondude/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celian-hamon&layout=compact)](https://github.com/celian-hamon)
+```
+
+
+[![Les Stats GitHub de celian](https://github-readme-stats.vercel.app/api?username=celian-hamon&count_private=true&theme=radical&show_icons=true&include_all_commits=true)](https://github.com/celian-hamon)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celian-hamon&layout=compact&theme=radical&card_heigth=500)](https://github.com/celian-hamon)
 
 
 [github]: https://github.com/skelletondude
@@ -46,4 +46,4 @@ or +33782538162 or discord : celian.msi#6775
 [instagram]: https://instagram.com/celian._._
 [linkedin]: https://linkedin.com/in/célian-hamon
 [mail]: mailto://hamoncelian@gmail.com
-[phone]: tel://33782538162
+[phone]: tel:+33782538162
