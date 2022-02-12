@@ -27,7 +27,7 @@ func main(){
   Celian = map[string]interface{}{
     "code"              : [Golang,Python,HTML,CSS,Javascript,SQL],
     "tools"             : [Node,Mysql],
-    "currentlyLearning" : "Dev at CESI Rouen"
+    "currentlyLearning" : "Dev at CESI Rouen",
     "WorkingFor"        : "Engie IT"
   }
 }
