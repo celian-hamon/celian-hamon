@@ -26,6 +26,7 @@ import "fmt"
 func main(){
   Celian = map[string]interface{}{
     "tech"              : [Golang,Python,HTML,CSS,Javascript,SQL,Node,Mysql,Linux,Shell],
+    "know'              : [GCloud,Docker,Php,Laravel,Bootstrap,React,Angular,Vue]
     "currentlyLearning" : "Dev at CESI Rouen",
     "WorkingFor"        : "Engie IT"
   }
