@@ -1,10 +1,10 @@
-<h2><img src="https://media.giphy.com/media/3tLfHNBLVmerqGEwHm/giphy.gif"  height="50px"/> Hi there, I'm Célian </h2>
+<h2><img src="https://media.giphy.com/media/3tLfHNBLVmerqGEwHm/giphy.gif" width="50px" height="50px"/> Hi there, I'm Célian </h2>
 
 ![](https://komarev.com/ghpvc/?username=celian-hamon&color=ff69b4)
-<img align="right" src="https://media.giphy.com/media/SbIzfdJa9YAxxnHqTe/giphy.gif" height="375px">
+<img align="right" src="https://media.giphy.com/media/SbIzfdJa9YAxxnHqTe/giphy.gif" width="375px" height="375px">
 <h4><em>im a Developer at <a href="https://www.engie.com/">Engie it</a></em></h4>
 
-<h3 align="left"><img src="https://media.giphy.com/media/3ohs4l3Tlr1rzSNm80/giphy.gif" height="50px" />  How to reach me : </h3>
+<h3 align="left"><img src="https://media.giphy.com/media/3ohs4l3Tlr1rzSNm80/giphy.gif" width="50px" height="50px" />  How to reach me : </h3>
 
 <br />
 
@@ -16,7 +16,7 @@
 <img src="https://img.icons8.com/nolan/32/discord-new-logo.png"/> : cece.msi#6775
 
 
-### <img src="https://media.giphy.com/media/5xaOcLSTZxK69HMrMGc/giphy.gif" height="50px"> More about me :
+### <img src="https://media.giphy.com/media/5xaOcLSTZxK69HMrMGc/giphy.gif" width="50px" height="50px"> More about me :
 
 ```golang
 package me
