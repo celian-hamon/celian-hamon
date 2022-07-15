@@ -1,4 +1,4 @@
-<h2><img src="https://media.giphy.com/media/3tLfHNBLVmerqGEwHm/giphy.gif" width="50px" height="50px"/> Hi there, I'm Célian </h2>
+<h2><img src="https://media.giphy.com/media/3tLfHNBLVmerqGEwHm/giphy.gif" height="50px"/> Hi there, I'm Célian </h2>
 
 ![](https://komarev.com/ghpvc/?username=celian-hamon&color=ff69b4)
 <img align="right" src="https://media.giphy.com/media/SbIzfdJa9YAxxnHqTe/giphy.gif" width="375px" height="375px">
