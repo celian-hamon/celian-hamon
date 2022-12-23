@@ -28,7 +28,7 @@ func main(){
     "tech"              : [Golang,Python,HTML,CSS,Javascript,SQL,Node,Mysql,Linux,Shell],
     "know'              : [GCloud,Docker,Php,Laravel,Bootstrap,React,Angular,Vue,Figma,Git,Rest APIs],
     "currentlyLearning" : "Dev at CESI Rouen",
-    "WorkingFor"        : "Engie IT"
+    "WorkingFor"        : "PayGreen"
   }
 }
 
