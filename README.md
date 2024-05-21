@@ -42,6 +42,6 @@ func main(){
 
 [github]: https://github.com/skelletondude
 [discord]: https://discord.gg/EbFVbBFc
-[linkedin]: https://linkedin.com/in/célian-hamon
+[linkedin]: https://www.linkedin.com/in/celian-hamon/
 [mail]: mailto://hamoncelian@gmail.com
 [phone]: tel:+33782538162
