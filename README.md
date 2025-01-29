@@ -11,9 +11,7 @@
 [<img src="https://img.icons8.com/nolan/50/linkedin.png"/>][linkedin]
 [<img src="https://img.icons8.com/nolan/50/new-post.png"/>][mail]
 <br/>
-<img src="https://img.icons8.com/nolan/32/phonelink-ring.png"/> : +33782538162
-<br/>
-<img src="https://img.icons8.com/nolan/32/discord-new-logo.png"/> : cece.msi#6775
+<img src="https://img.icons8.com/nolan/32/discord-new-logo.png"/> : cece.msi
 
 
 ### <img src="https://media.giphy.com/media/5xaOcLSTZxK69HMrMGc/giphy.gif" width="50px" height="50px"> More about me :
