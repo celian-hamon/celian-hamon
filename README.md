@@ -34,8 +34,6 @@ func main(){
 ```
 
 
-<img align="center" width="400px" height="150px" src="https://github-readme-stats.vercel.app/api?username=celian-hamon&count_private=true&theme=radical&show_icons=true&include_all_commits=true)"/><img align="center" width="400px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celian-hamon&layout=compact&theme=radical&card_heigth=500"/>
-
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=rv4caqojha0ul90j58qwny5u9&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=rv4caqojha0ul90j58qwny5u9&redirect=true)
 
 [github]: https://github.com/skelletondude
