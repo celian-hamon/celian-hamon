@@ -25,7 +25,7 @@ func main(){
   Celian = map[string]interface{}{
     "tech"              : [Golang,Python,HTML,CSS,Javascript,SQL,Node,Mysql,Linux,Shell],
     "know'              : [GCloud,Docker,Php,Laravel,Bootstrap,React,Angular,Vue,Figma,Git,Rest APIs],
-    "currentlyLearning" : "Dev at CESI Rouen",
+    "currentlyLearning" : "Managment",
     "WorkingFor"        : "PayGreen"
   }
 }
