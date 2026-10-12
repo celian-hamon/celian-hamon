@@ -34,7 +34,7 @@ func main(){
 ```
 
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=rv4caqojha0ul90j58qwny5u9&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=rv4caqojha0ul90j58qwny5u9&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=rv4caqojha0ul90j58qwny5u9&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=rv4caqojha0ul90j58qwny5u9&redirect=true)
 
 [github]: https://github.com/skelletondude
 [discord]: https://discord.gg/EbFVbBFc
